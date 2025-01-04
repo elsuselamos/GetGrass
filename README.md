@@ -5,7 +5,7 @@ Clone Repo
 
 Open Directory 
 
-    cd GetGrass-Bot
+    cd GetGrass
 
 Install Dependen
 
